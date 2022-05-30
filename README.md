@@ -17,7 +17,7 @@
 
 <h3 align="left">Know my YouTube channel:</h3>
 
-[![YouTube](ttps://img.shields.io/youtube/channel/subscribers/UCfNy5m4wA1Hp3gZ--yXIR6A?style=social))](https://twitter.com/herickwilke))
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfNy5m4wA1Hp3gZ--yXIR6A?style=social))](https://twitter.com/herickwilke))
 
 
 <h3 align="left">Languages and Tools:</h3>
