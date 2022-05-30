@@ -12,12 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herickwilke)]
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herickwilke)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herickwilke)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herickwilke)
 
 <h3 align="left">Know my YouTube channel:</h3>
 
-[![YouTube](ttps://img.shields.io/youtube/channel/subscribers/UCfNy5m4wA1Hp3gZ--yXIR6A?style=social))](https://twitter.com/herickwilke)]
+[![YouTube](ttps://img.shields.io/youtube/channel/subscribers/UCfNy5m4wA1Hp3gZ--yXIR6A?style=social))](https://twitter.com/herickwilke))
 
 
 <h3 align="left">Languages and Tools:</h3>
