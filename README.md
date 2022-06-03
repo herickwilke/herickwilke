@@ -3,8 +3,6 @@
 <h2>Hi!</h2>
 <p>My name is Herick Wilke and I'm a passionate full stack developer currently living in <del>internet</del> Brazil.</p> 
 
-- 🦅 Always moving forward
-
 - 🔭 I’m currently working on [NZN](https://nzn.io/)
 
 - 🌱 I’m currently learning **.Net Core**
