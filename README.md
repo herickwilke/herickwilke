@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NZN](https://nzn.io/)
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning more about **.Net Core** and advanced React topics
 
 - 📫 How to reach me **contato@herick.dev**
 
