@@ -3,9 +3,9 @@
 <h2>Hi!</h2>
 <p>My name is Herick Wilke and I'm a passionate full stack developer currently living in <del>internet</del> Brazil.</p> 
 
-- 🔭 I’m currently working on [NZN](https://nzn.io/)
+- 🔭 I’m currently working on [Novisto](https://novisto.com/)
 
-- 🌱 I’m currently learning more about **.Net Core** and advanced React topics
+- 🌱 I’m currently learning more about **Python** in depth and algorithms 
 
 - 📫 How to reach me **contato@herick.dev**
 
