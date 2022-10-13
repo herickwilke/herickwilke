@@ -9,14 +9,7 @@
 
 - 📫 How to reach me **contato@herick.dev**
 
-<h2>What I've done recently</h2>
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<br>
 
 <p align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
