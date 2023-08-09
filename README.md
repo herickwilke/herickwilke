@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working at [Novisto](https://novisto.com/)
 
+- 👨‍💻 The current stack I'm using is Python, Angular and testing them using Pytest and Jest. 
+
 - 🌱 I’m currently learning more about **Python** in depth and algorithms 
 
 - 📫 How to reach me **contato@herick.dev**
