@@ -2,7 +2,7 @@
 
 <h2>Hi!</h2>
 <p>My name is Herick Wilke and I'm a passionate full stack developer.</p>
-<p>I use to say that programmaning languages are just detail. The thing is to deliver value.</p>
+<p>I use to say that programmaning languages are just detail. Deliver value is the thing.</p>
 
 - 🔭 I’m currently working at [Novisto](https://novisto.com/)
 
