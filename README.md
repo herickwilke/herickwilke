@@ -1,17 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herickwilke&label=Profile%20views&color=0e75b6&style=flat" alt="herickwilke" /> </p>
 
-<h2>Hi!</h2>
-<p>I use to say that programmaning languages are just detail. Deliver value is the thing.</p>
-
-- 🔭 I’m currently working at [Novisto](https://novisto.com/)
-
-- 👨‍💻 The current stack I'm using is Python, Angular and testing them using Pytest and Jest. 
-
-- 🌱 I’m currently learning more about **Python** in depth and algorithms 
-
-- 📫 How to reach me **contato@herick.dev**
-
-<br>
 
 <p align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
