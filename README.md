@@ -1,15 +1,11 @@
 <h1 align="center">Hey there, I'm Herick</h1>
 <h3 align="center">Experienced Full Stack Developer, specializing in front-end and back-end development. Adept at problem-solving, team collaboration, and continuous learning.</h3>
 
-- 🔭 I’m currently working to [Novisto](www.novisto.com)
-
 - 🌱 I’m currently learning **Python and algorithms in depth**
 
 - 👯 I’m looking to collaborate on **open source/non profit projects**
 
 - 📫 How to reach me **contato@herick.dev**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGIHZc7tbE/BCxxKD8aXpZIC8jEWwv0HQ/view?utm_content=DAGIHZc7tbE&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGIHZc7tbE/BCxxKD8aXpZIC8jEWwv0HQ/view?utm_content=DAGIHZc7tbE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - 🚨 Please, notice **I currently don't have a proper portfolio neither recent public repositories, cause I've been working to private companies and projects for the last few years. But that's not an excuse - I'm creating a portfolio and I'm willing to share asap.**
 
