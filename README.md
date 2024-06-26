@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGIHZc7tbE/BCxxKD8aXpZIC8jEWwv0HQ/view?utm_content=DAGIHZc7tbE&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGIHZc7tbE/BCxxKD8aXpZIC8jEWwv0HQ/view?utm_content=DAGIHZc7tbE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-- 🚨 Please, notice **I currently don't have a proper portfolio neither recent public repositories, cause I've been working to private companies and projects in the last few years. But that's not an excuse - I'm creating a portfolio that and I'm willing to share asap.**
+- 🚨 Please, notice **I currently don't have a proper portfolio neither recent public repositories, cause I've been working to private companies and projects for the last few years. But that's not an excuse - I'm creating a portfolio that and I'm willing to share asap.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
