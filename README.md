@@ -1,6 +1,4 @@
-<h3 align="center">Experienced Full Stack Developer, specializing in front-end and back-end development. Adept at problem-solving, team collaboration, and continuous learning.</h3>
 
-- 🌱 I’m currently learning **Python and algorithms in depth**
 
 - 👯 I’m looking to collaborate on **open source/non profit projects**
 
