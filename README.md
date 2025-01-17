@@ -1,50 +1,51 @@
+<h1 align="center">Hi, I'm Herick Wilke 👋</h1>
+<h3 align="center">A versatile software engineer passionate about building impactful solutions!</h3>
 
+---
 
-- 👯 I’m looking to collaborate on **open source/non profit projects**
-
-- 📫 How to reach me **contato@herick.dev**
-
-- 🚨 Just a heads up, I don’t have a proper portfolio or recent public repositories right now. I’ve been working on private companies and projects for the past few years, but I’m actively working on creating a portfolio and I’ll be happy to share it with you as soon as it’s ready!
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/herickwilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herickwilke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/herickwilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herickwilke" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/herickwilke" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Herick Wilke" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/herickwilke" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - Herick Wilke" height="30" width="40" />
+  </a>
 </p>
 
-<h4 align="left">Languages and tools</h4>
-<h3 align="left">Back-end:</h3>
-Python (Flask, FastAPI, Pydantic, Pytest, Alembic) 
-JavaScript (NodeJS)
-Databases: 
-Cloud: 
-Amazon AWS 
-IBM Cloud
-Google Cloud
-Front-end:
+---
 
-Tools: 
+<h3 align="left">💻 Languages and Tools:</h3>
 
+#### 🖥️ **Back-end:**
+- **Python**: Flask, FastAPI, Pydantic, Pytest, Alembic  
+- **JavaScript**: NodeJS  
 
-<h3 align="left">Front-end:</h3>
-Angular
-React
+#### 🌐 **Front-end:**
+- Angular  
+- React  
 
-<h3 align="left">Testing:</h3>
-Pytest
-Jest
+#### 🛠️ **Testing:**
+- Pytest  
+- Jest  
 
-<h3 align="left">Databases:</h3>
-Relational (PostgreSQL, MySQL, SQL Server)
-Redis 
+#### 📂 **Databases:**
+- Relational: PostgreSQL, MySQL, SQL Server  
+- Non-relational: Redis  
 
+#### ☁️ **Cloud Platforms:**
+- Amazon AWS  
+- IBM Cloud  
+- Google Cloud  
 
-<h3 align="left">Tools:</h3>
-Github (Actions, CI/CD)
-Docker
-Sentry
-Jira
-Figma
+#### ⚙️ **Tools:**
+- GitHub (Actions, CI/CD)  
+- Docker  
+- Sentry  
+- Jira  
+- Figma  
 
+---
 
-
+<h3 align="left">📈 Let's Build Together!</h3>
+<p align="left">Feel free to explore my repositories, connect with me on LinkedIn, or subscribe to my YouTube channel for more insights into software development!</p>
