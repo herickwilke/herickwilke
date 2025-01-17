@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **contato@herick.dev**
 
-- 🚨 Please, notice **I currently don't have a proper portfolio neither recent public repositories, cause I've been working to private companies and projects for the last few years. But that's not an excuse - I'm creating a portfolio and I'm willing to share asap.**
+- 🚨 Just a heads up, I don’t have a proper portfolio or recent public repositories right now. I’ve been working on private companies and projects for the past few years, but I’m actively working on creating a portfolio and I’ll be happy to share it with you as soon as it’s ready!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
