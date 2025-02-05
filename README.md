@@ -1,5 +1,5 @@
-<h2 align="center">Hey, there 👋</h1>
-<h3 align="center">I'm a versatile software engineer, always eager to explore new solutions.</h3>
+<h2>Hey, there 👋</h1>
+<h3>I'm a versatile software engineer, always eager to explore new solutions.</h3>
 
 ---
 
