@@ -43,5 +43,5 @@
 ---
 
 <h3 align="left">📈 Let's Build Together!</h3>
-<p align="left">Feel free to connect with me on LinkedIn, or reach out by email:</p>
-<p align="left">contact@herick.dev</p>
+<p align="left">Feel free to connect with me on LinkedIn, or reach out by <a href="mailto:contact@herick.dev">email</a>.</p>
+
