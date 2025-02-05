@@ -43,4 +43,5 @@
 ---
 
 <h3 align="left">📈 Let's Build Together!</h3>
-<p align="left">Feel free to connect with me on LinkedIn, or subscribe to my YouTube channel (in Portuguese only for now) for more insights into software development.</p>
+<p align="left">Feel free to connect with me on LinkedIn, or reach out by email:</p>
+<p align="left">contact@herick.dev</p>
