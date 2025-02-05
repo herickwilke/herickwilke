@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Herick Wilke 👋</h1>
-<h3 align="center">A versatile software engineer passionate about building impactful solutions!</h3>
+<h2 align="center">Hey, there 👋</h1>
+<h3 align="center">A versatile software engineer, always eager to explore new solutions.</h3>
 
 ---
 
